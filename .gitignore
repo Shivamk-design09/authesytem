@@ -13,7 +13,7 @@ dist/
 build/
 
 #tldr
-.tldr
+*.tldr
 
 # OS files
 .DS_Store
